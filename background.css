@@ -1,0 +1,10 @@
+body {
+  background-image: url("./Duck.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+}
+h1 {
+  text-align: center;
+  color: #e6e6fa;
+}
